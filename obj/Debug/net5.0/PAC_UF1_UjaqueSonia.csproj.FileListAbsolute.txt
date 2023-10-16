@@ -1,0 +1,16 @@
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\bin\Debug\net5.0\PAC_UF1_UjaqueSonia.exe
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\bin\Debug\net5.0\PAC_UF1_UjaqueSonia.deps.json
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\bin\Debug\net5.0\PAC_UF1_UjaqueSonia.runtimeconfig.json
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\bin\Debug\net5.0\PAC_UF1_UjaqueSonia.runtimeconfig.dev.json
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\bin\Debug\net5.0\PAC_UF1_UjaqueSonia.dll
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\bin\Debug\net5.0\ref\PAC_UF1_UjaqueSonia.dll
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\bin\Debug\net5.0\PAC_UF1_UjaqueSonia.pdb
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\obj\Debug\net5.0\PAC_UF1_UjaqueSonia.csproj.AssemblyReference.cache
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\obj\Debug\net5.0\PAC_UF1_UjaqueSonia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\obj\Debug\net5.0\PAC_UF1_UjaqueSonia.AssemblyInfoInputs.cache
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\obj\Debug\net5.0\PAC_UF1_UjaqueSonia.AssemblyInfo.cs
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\obj\Debug\net5.0\PAC_UF1_UjaqueSonia.csproj.CoreCompileInputs.cache
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\obj\Debug\net5.0\PAC_UF1_UjaqueSonia.dll
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\obj\Debug\net5.0\ref\PAC_UF1_UjaqueSonia.dll
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\obj\Debug\net5.0\PAC_UF1_UjaqueSonia.pdb
+C:\Users\sonia\source\repos\PAC_UF1_UjaqueSonia\obj\Debug\net5.0\PAC_UF1_UjaqueSonia.genruntimeconfig.cache
